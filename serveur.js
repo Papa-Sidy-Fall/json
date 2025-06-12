@@ -9,7 +9,7 @@ const corsOptions = {
   origin: [
     'http://localhost:3000',
     'http://localhost:5173',
-    'https://votre-app-vercel.vercel.app', // Remplacez par votre URL Vercel
+    'https://whakhtane-git-main-falls-projects-00c0b5a6.vercel.app/', // Remplacez par votre URL Vercel
     /\.vercel\.app$/ // Permet tous les sous-domaines Vercel
   ],
   credentials: true,
